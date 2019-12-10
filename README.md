@@ -1,2 +1,2 @@
 # Python
-Exploratory Data Analysis With Python
+Data Analysis and Machine Learning With Python
